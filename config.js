@@ -10,5 +10,4 @@ ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/6ctae3.jpg",
 ALIVE_MSG: process.env.ALIVE_MSG || "*🎇WELLCOME TO MANISHA-MD BOT🎇*",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
 MODE: process.env.MODE || "public",
-AUTO_VOICE: process.env.AUTO_VOICE || "true",
 };
