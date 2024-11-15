@@ -183,7 +183,7 @@ m.react("👾")
 //=====================✓
 
 if (config.AUTO_VOICE === 'true') {    
-const url = 'https://raw.githubusercontent.com/manishasasmitha-max/MANISHAMD_DATABASED/main/autovoice/MANISHA-DATA'
+const url = 'https://github.com/manisha-sasmitha/MANISHA-MD/blob/main/Hi%20i%20am%20maneesha%20md%20whatsapp%20bot.welcome.mp3'
 let { data } = await axios.get(url)
 for (vr in data){
 if((new RegExp(`\\b${vr}\\b`,'gi')).test(body)) conn.sendMessage(from,{audio: { url : data[vr]},mimetype: 'audio/mpeg',ptt:true},{quoted:mek})   
@@ -226,7 +226,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 app.get("/", (req, res) => {
 res.send("hey, MANISHA-MD started✅");
 });
-app.listen(port, () => console.log(`Nadeen md Server listening on port http://localhost:${port}`));
+app.listen(port, () => console.log(`manisha md Server listening on port http://localhost:${port}`));
 setTimeout(() => {
 connectToWA()
 }, 4000);  
