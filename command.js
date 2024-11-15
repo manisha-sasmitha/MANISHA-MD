@@ -15,4 +15,6 @@ module.exports = {
     cmd,
     AddCommand:cmd,
     Function:cmd,
-    Module:c
+    Module:cmd,
+    commands,
+};
