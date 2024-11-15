@@ -37,7 +37,6 @@
     "moment-timezone": "latest",
     "hirunews-scrap": "^1.1.2",
     "google-tts-api":"2.0.2",
-    "ytdl-core": "^4.11.5",
-    "megajs": "^1.1.0"
+    "ytdl-core": "^4.11.5"
   }
 }
