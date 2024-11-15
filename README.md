@@ -35,7 +35,7 @@ You can see the Paire Code at **[PAIR CODE](https://express-pairing-code2-1.onre
 <div align="center">
 <h3>🧍 MANISHA-MD Developer 👤</h3>
 <h3> manisha 👤<h3>
-<img src="https://files.catbox.moe/m8qr52.jpg"  width="300" height="190">
+<img src="https://files.catbox.moe/m8qr52.jpg"  width="360" height="360">
 </div>
 <a><img src= https://i.imgur.com/LyHic3i.gif /></a><a><img src= https://i.imgur.com/LyHic3i.gif /></a>
 <br>
