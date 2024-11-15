@@ -27,6 +27,17 @@
     "api-dylux": "1.8.5",
     "google-tts-api":"2.0.2",
     "wa-sticker-formatter":"4.4.4",
-    "ruhend-scraper":"8.0.3"
+    "ruhend-scraper":"8.0.3",
+    "cheerio" : "1.0.0",
+    "g-i-s": "^2.1.7",
+    "mfiredlcore-vihangayt": "^1.0.0",
+    "@bochilteam/scraper": "latest",
+    "@sl-code-lords/si-subdl": "^1.1.1",
+    "@sl-code-lords/esana-news": "latest",
+    "youtubedl-core": "^4.11.5",
+    "moment-timezone": "latest",
+    "hirunews-scrap": "^1.1.2",
+    "google-tts-api":"2.0.2",
+    "ytdl-core": "^4.11.5"
   }
 }
